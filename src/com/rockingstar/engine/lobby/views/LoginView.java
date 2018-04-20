@@ -80,7 +80,7 @@ public class LoginView {
         _hostIP.setId("host_ip_label");
         _hostIP.setVisible(false);
 
-        _hostIPInput = new TextField("77.162.40.81:7789");
+        _hostIPInput = new TextField("145.33.225.170:7789");
         _hostIPInput.setPromptText("127.0.0.1:7789");
         _hostIPInput.setId("hostname_input");
         _hostIPInput.setMaxWidth(300);
